@@ -1,0 +1,149 @@
+Pt{position: absolute;
+    top: 20%;
+    left: 16.7%;
+    font-size: 21px;
+    font-family: 'Potta One', cursive;
+    color: rgb(252, 252, 252);
+    letter-spacing: 1px;
+}
+Pg{
+    position: absolute;
+    top: 20%;
+    left: 44.9%;
+    font-size: 21px;
+    font-family: 'Potta One', cursive;
+    color: rgb(252, 252, 252);
+    letter-spacing: 1px;
+}
+Pf{
+    position: absolute;
+    top: 20%;
+    left: 74%;
+    font-size: 21px;
+    font-family: 'Potta One', cursive;
+    color: rgb(252, 252, 252);
+    letter-spacing: 1px;
+}
+.align{
+    align-content: space-between;
+}
+.image1{
+  position: absolute;
+    border: 1px solid rgb(252, 252, 252);
+  width: 170px;
+  height: 170px;
+  margin-top: 220px;
+  margin-left: 210px;
+}
+.image2{
+  position: absolute;
+    border: 1px solid rgb(252, 252, 252);
+  width: 170px;
+  height: 170px;
+  margin-left: 430px;
+  margin-top: 220px;
+}
+.image3{
+  position: absolute;
+    border: 1px solid rgb(252, 252, 252);
+  width: 170px;
+  height: 170px;
+  margin-left: 770px;
+  margin-top: 220px;
+}
+.image4{
+  position: absolute;
+    border: 1px solid rgb(252, 252, 252);
+  width: 170px;
+  height: 170px;
+  margin-left: 990px;
+  margin-top: 220px;
+}
+.image5{
+  position: absolute;
+    border: 1px solid rgb(252, 252, 252);
+  width: 170px;
+  height: 170px;
+  margin-left: 1320px;
+  margin-top: 220px;
+}
+.image6{
+  position: absolute;
+    border: 1px solid rgb(252, 252, 252);
+  width: 170px;
+  height: 170px;
+  margin-left: 1540px;
+  margin-top: 220px;
+}
+.text1{
+position: absolute;
+color: black;
+  top: 511px;
+  left: 200px;
+  width: 170px;
+  height: 206px;
+  border: 1px solid rgb(252, 252, 252);
+  margin: 10px 10px 10px 10px;
+  padding: 5px;
+  font-family: 'Potta One', cursive;
+}
+.text2{
+position: absolute;
+color: black;
+  top: 511px;
+  left: 420px;
+  width: 170px;
+  height: 206px;
+  border: 1px solid rgb(252, 252, 252);
+  margin: 10px 10px 10px 10px;
+  padding: 5px;
+  font-family: 'Potta One', cursive;
+}
+.text3{
+position: absolute;
+color: black;
+  top: 511px;
+  left: 760px;
+  width: 170px;
+  height: 206px;
+  border: 1px solid rgb(252, 252, 252);
+  margin: 10px 10px 10px 10px;
+  padding: 5px;
+  font-family: 'Potta One', cursive;
+}
+.text4{
+position: absolute;
+color: black;
+  top: 511px;
+  left: 980px;
+  width: 170px;
+  height: 206px;
+  border: 1px solid rgb(252, 252, 252);
+  margin: 10px 10px 10px 10px;
+  padding: 5px;
+  font-family: 'Potta One', cursive;
+}
+.text5{
+position: absolute;
+color: black;
+  top: 511px;
+  left: 1310.4px;
+  width: 170px;
+  height: 206px;
+  border: 1px solid rgb(252, 252, 252);
+  margin: 10px 10px 10px 10px;
+  padding: 5px;
+  font-family: 'Potta One', cursive;
+}
+.text6{
+position: absolute;
+color: black;
+  top: 511px;
+  left: 1530px;
+  width: 170px;
+  height: 206px;
+  border: 1px solid rgb(252, 252, 252);
+  margin: 10px 10px 10px 10px;
+  padding: 5px;
+  font-family: 'Potta One', cursive;
+}
